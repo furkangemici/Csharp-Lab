@@ -1,0 +1,10 @@
+C:\Users\furkn\OneDrive\Masaüstü\2.sınıf\bahar\oop2_lab\week3\bin\Debug\week3.exe.config
+C:\Users\furkn\OneDrive\Masaüstü\2.sınıf\bahar\oop2_lab\week3\bin\Debug\week3.exe
+C:\Users\furkn\OneDrive\Masaüstü\2.sınıf\bahar\oop2_lab\week3\bin\Debug\week3.pdb
+C:\Users\furkn\OneDrive\Masaüstü\2.sınıf\bahar\oop2_lab\week3\obj\Debug\week3.csproj.AssemblyReference.cache
+C:\Users\furkn\OneDrive\Masaüstü\2.sınıf\bahar\oop2_lab\week3\obj\Debug\week3.Form1.resources
+C:\Users\furkn\OneDrive\Masaüstü\2.sınıf\bahar\oop2_lab\week3\obj\Debug\week3.Properties.Resources.resources
+C:\Users\furkn\OneDrive\Masaüstü\2.sınıf\bahar\oop2_lab\week3\obj\Debug\week3.csproj.GenerateResource.cache
+C:\Users\furkn\OneDrive\Masaüstü\2.sınıf\bahar\oop2_lab\week3\obj\Debug\week3.csproj.CoreCompileInputs.cache
+C:\Users\furkn\OneDrive\Masaüstü\2.sınıf\bahar\oop2_lab\week3\obj\Debug\week3.exe
+C:\Users\furkn\OneDrive\Masaüstü\2.sınıf\bahar\oop2_lab\week3\obj\Debug\week3.pdb
